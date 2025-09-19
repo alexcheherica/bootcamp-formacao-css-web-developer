@@ -39,24 +39,29 @@ descrição:
 
 
 
-|M	  |MÓDULOS 							  	                              |CATEGORIA 	         |SUBMODULOS 		                                                     |DURAÇÃO (hrs)	 |CHECK  |
-|:--  |:---- 								                                  |:----	             |:----  		                                                         |:----		       |:----: |
-|MO-1 | Primeiros Passos com CSS	                            |	                   |			                                                             | 			         |   ✅  |
-|	    |			 										                              |CURSO			         |Fundamentos do CSS                                                 |3        	     |   ✅  |
-|	    |			 										                              |CURSO			         |Estilizações Básicas com CSS                                       |6	   	         |   ✅  | 
-|	    |													                              |CURSO			         |Unidades de Medida em CSS                                          |2	    		     |   ✅  |
-|	    |													                              |CURSO            	 |Criando sua Primeira Landing Page com HTML e CSS                   |2			         |   ✅  |
-|	    |												                                |CURSO	             |Materiais Complementares - Primeiros Passos com CSS                |1		           |   ✅  |
-|MO-2 | Trabalhando com Layouts no CSS  			                |	   	               |				                                                         | 			       |   ✅  |
-|	    |													                              |CURSO			         |Entendendo Algoritmos e Fluxogramas                                     |1	   		       |   ✅  |
-|	    |											                                  |CURSO	             |Estrutura de um Software e Seu Ambiente de Desenvolvimento              |1	               |   ✅  |
-|	    |												                                |CURSO               |Trabalhando com Variáveis 	                                             |2    		       |   ✅  |
-| 	  |												                                |CURSO		        	 |Criando e Manipulando Vetores e Matrizes	   	                         |1			       |   ✅  |
-| 	  |											                                  |CURSO	             |Versionamento de Código com Git e GitHub                                |2                |   ✅  |
-|MO-3 | Refinando os Estilos CSS das Nossas Páginas  	        |	                   |				                                                         |			       |   ✅  |
-| 	  |											  	                              |CURSO			         |Entendendo Operadores e Expressões                                      |1	               |   ✅  |
-| 	  |												                                |CURSO			         |Trabalhando Com Operadores Aritméticos	   			                     |1			       |   ✅  |
-| 	  |												                                |CURSO		           |Trabalhando Com Operadores de Comparação	   	                         |1			       |   ✅  |
-| 	  |											                                  |CURSO	             |Trabalhando Com Operadores Lógicos                                      |1                |   ✅  |
-|     |												                                |CURSO	             |Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional    |1	   		       |   ✅  |
-|     |												                                |DESAFIO DE CÓDIGO	 |Construindo um Checkout Inteligente                                     |1	   		       |   ✅  |
+|M	  |MÓDULOS 							  	                    |CATEGORIA 	         |SUBMODULOS 		                                                     |DURAÇÃO (hrs)	   |CHECK  |
+|:--  |:---- 								                    |:----	             |:----  		                                                         |:----		       |:----: |
+|MO-1 | Primeiros Passos com CSS	                            |	                 |			                                                             | 			       |   ✅  |
+|	  |			 										        |CURSO			     |Fundamentos do CSS                                                     |3        	       |   ✅  |
+|	  |			 										        |CURSO			     |Estilizações Básicas com CSS                                           |6	   	           |   ✅  | 
+|	  |													        |CURSO			     |Unidades de Medida em CSS                                              |2	    		   |   ✅  |
+|	  |													        |DESAFIO DE PROJETO  |Criando sua Primeira Landing Page com HTML e CSS                       |2			       |   ✅  |
+|	  |												            |CURSO	             |Materiais Complementares - Primeiros Passos com CSS                    |1		           |   ✅  |
+|MO-2 | Trabalhando com Layouts no CSS  			            |	   	             |				                                                         | 			       |   ✅  |
+|	  |													        |CURSO			     |Posicionamentos e Exibição de Elementos com CSS                        |2	   		       |   ✅  |
+|	  |											                |CURSO	             |Trabalhando com Flexbox no CSS                                         |2	               |   ✅  |
+|	  |												            |DESAFIO DE PROJETO  |Clonando a Página do Youtube com CSS 	                                 |2    		       |   ✅  |
+| 	  |												            |CURSO		         |Dominando Grid Layouts no CSS	   	                                     |3			       |   ✅  |
+| 	  |											                |DESAFIO DE PROJETO	 |Reproduzindo a Listagem do YouTube com Grid Layout no CSS              |2                |   ✅  |
+|     |												            |CURSO	             |Responsividade no CSS                                                  |3	   		       |   ✅  |
+|     |												            |DESAFIO DE PROJETO	 |Construindo um Layout Responsivo Para o Site do Discord Com CSS        |2	   		       |   ✅  |
+|     |												            |CURSO	             |Materiais Complementares - Trabalhando Com Layouts no CSS              |1	   		       |   ✅  |
+|MO-3 | Refinando os Estilos CSS das Nossas Páginas  	        |	                 |				                                                         |			       |   ✅  |
+| 	  |											  	            |CURSO			     |Pseudo Elementos e Pseudo Classes                                      |4	               |   ✅  |
+| 	  |												            |CURSO			     |Transições e Animações	   			                                 |3			       |   ✅  |
+| 	  |												            |CURSO		         |Boas Práticas e Convenções no CSS	   	                                 |2			       |   ✅  |
+| 	  |											                |CURSO	             |Iniciando com seu primeiro Framework em CSS: Bootstrap                 |3                |   ✅  |
+|     |												            |DESAFIO DE PROJETO	 |Clonando o Site da HBO Max com Animações em HTML e CSS                 |1	   		       |   ✅  |
+|     |												            |CURSO           	 |Materiais Complementares - Refinando os Estilos CSS das nossas páginas |1	   		       |   ✅  |
+|     |												            |CURSO	             |Avalie a Formação CSS Web Developer                                    |1	   		       |   ✅  |
+
